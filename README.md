@@ -98,7 +98,7 @@ digital-wallet/
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/digital-wallet.git](https://github.com/mkraj-7838/Digital-Wallet-System)
+   git clone https://github.com/mkraj-7838/Digital-Wallet-System
    cd digital-wallet
    ```
 
